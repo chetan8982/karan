@@ -57,16 +57,21 @@
 
 
 
+x=5
+y="2"
+print(type(x))
+print(type(y))
+res=x+int(y)
+print(res)
+
+      
 
 
 
+      
 
 
 
-
-
-
-9
 
 
 
