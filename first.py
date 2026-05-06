@@ -46,25 +46,37 @@
 
 
 #q=3
-# n1=200
-# char1= "java"
-# com=n1
-# n1=char1
-# char1=n1
-# print(f"n1={n1},char1{char1}")
+
+
 
 #q=4
 
 
 
-x=5
-y="2"
-print(type(x))
-print(type(y))
-res=x+int(y)
-print(res)
+# x=5
+# y="2"
+# print(type(x))
+# print(type(y))
+# res=x+int(y)
+# print(res)
 
-      
+
+# membership opr
+
+# str1="this is python for devops 100"
+# find="this"
+# print("109" in str1)
+
+
+# num1="4567"
+# find="1"
+# # print(find in num1)
+# email="chetant1902@gmail.com"
+# find="%"
+# print(find in email)
+# if find in email:
+#     print("this is valid google email")
+
 
 
 
