@@ -6,7 +6,7 @@
 # print(a is not b)
 
 
-# conditional statement
+# conditional statement : we use conditional statement to intelligent our software and program.
 # a=0
 # if a:
 #     print('yes')
@@ -44,11 +44,11 @@
 # # print(res)
 # print(res)
 
-# num1=3
-# num2=9
-# num3=12
-#wap to find largest
-#wap to find smallest
+num1=3
+num2=9
+num3=12
+# wap to find largest
+# wap to find smallest
 # res=max(num1,num2,num3)
 # print(res)
 
